@@ -4,3 +4,6 @@
 /Build/
 /Logs/
 /UserSettings/
+/Library/
+astro/astro/Library/
+*.dylib
