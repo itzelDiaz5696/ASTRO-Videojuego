@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\astro\\astro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Managers\\EventManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Game\\Managers\\EventManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\AI\\EnemyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\LevelCompleteUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\AI\\LevelCompleteUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileChargeParameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Gameplay\\ProjectileChargeParameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\UI\\TakeScreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\UI\\TakeScreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\AI\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyMobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\AI\\EnemyMobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyTurret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPS\\Scripts\\AI\\EnemyTurret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Managers\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Managers\\EventManager.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Managers\\EventManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Managers\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T05:59:56.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectiveKillEnemies.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\Objectives\\ObjectiveKillEnemies.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T05:56:46.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelCompleteUI.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\LevelCompleteUI.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\LevelCompleteUI.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\LevelCompleteUI.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\LevelCompleteUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T05:00:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\Damageable.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:43:49.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectileStandard.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\ProjectileStandard.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAmwOAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:41:44.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectileChargeParameters.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileChargeParameters.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Gameplay\\ProjectileChargeParameters.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Gameplay\\ProjectileChargeParameters.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Gameplay\\ProjectileChargeParameters.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:40:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectileBase.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\ProjectileBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:40:25.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TakeScreenshot.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\UI\\TakeScreenshot.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\UI\\TakeScreenshot.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\UI\\TakeScreenshot.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\UI\\TakeScreenshot.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:34:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:32:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyTurret.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyTurret.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyTurret.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyTurret.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyTurret.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:29:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyMobile.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyMobile.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyMobile.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyMobile.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyMobile.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAYwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:29:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:29:26.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\andre\\astro\\astro\\Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\AI\\EnemyController.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAYwBsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:28:57.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
